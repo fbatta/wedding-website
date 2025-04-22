@@ -1,0 +1,30 @@
+baseURL: http://127.0.0.1:8000
+languageCode: en-us
+theme: hextra
+
+languages:
+  en:
+    languageName: English
+    weight: 1
+    title: Bibi and Coco's Wedding
+    contentDir: content/en
+  es:
+    languageName: Español
+    weight: 2
+    title: Matri Bibi y Coco
+    contentDir: content/es
+  it:
+    languageName: Italiano
+    weight: 3
+    title: Matrimonio Bibi e Coco
+    contentDir: content/it
+params:
+  navbar:
+    displayTitle: true
+    displayLogo: false
+  theme:
+    default: system
+    displayToggle: true
+  footer:
+    displayCopyright: false
+    displayPoweredBy: false
