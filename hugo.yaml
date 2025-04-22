@@ -2,6 +2,10 @@ baseURL: https://bibiycoco-too.day
 languageCode: en-us
 theme: hextra
 
+caches:
+  images:
+    dir: :cacheDir/images
+
 languages:
   en:
     languageName: English
