@@ -6,6 +6,21 @@ caches:
   images:
     dir: :cacheDir/images
 
+menu:
+  main:
+    - identifier: directions
+      name: Directions
+      pageRef: /directions
+      weight: 1
+    - identifier: gifts
+      name: Gifts
+      pageRef: /gifts
+      weight: 20
+    - identifier: faqs
+      name: FAQs
+      pageRef: /faqs
+      weight: 30
+
 languages:
   en:
     languageName: English

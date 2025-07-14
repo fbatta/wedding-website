@@ -1,0 +1,37 @@
+.quote {
+    position: relative;
+    margin: 1em 0;
+    padding: 2em 2em 2em 3.5em;
+    border-left: 3px solid #ddd;
+    background-color: #fafafa;
+}
+.quote::before {
+  content: "“"; /* Unicode for the opening quote */
+  font-size: 5rem; /* Make the quote giant */
+  color: #ccc;
+  position: absolute;
+  top: -25px;
+  left: 10px;
+  z-index: 100; /* Push it behind the text */
+  font-family: serif;
+}
+.quote::after {
+  content: "„"; /* Unicode for the opening quote */
+  font-size: 5rem; /* Make the quote giant */
+  color: #ccc;
+  position: absolute;
+  bottom: -10px;
+  right: 10px;
+  z-index: 100; /* Push it behind the text */
+  font-family: serif;
+}
+
+.quote p {
+    font-size: 1.3em;
+    font-style: italic;
+    font-weight: 300;
+}
+.quote p > .author {
+    font-style: normal;
+    font-weight: 400;
+}
