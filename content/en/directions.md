@@ -7,7 +7,7 @@ The wedding ceremony and reception followed by dinner will take place at the Hac
 
 ## Directions
 
-### By car from Bogotá
+### 🚗 By car from Bogotá
 
 Whether you’re driving your own car or taking a taxi or Uber, you will need to get onto Route 50 (toll road) towards “El Rosal”.
 
@@ -25,15 +25,15 @@ If you see an intersection with a statue of the virgin Mary on top of some blue 
 Please consider that the traffic can be very high, and depending on where you are in Bogotá it might take up to 2.5 hours to reach the venue!
 {{< /callout >}}
 
-### By public transport
+### 🚌 By public transport
 
 There isn't really a convenient way to get to the location by public transport unfortunately. 😢
 
-### By event bus
+### 🥳 By event bus
 
 TBD
 
-### Car pooling
+### 🚙 Car pooling
 
 We can facilitate contacts between different guests who are thinking of driving to the location and have spare seats, and those looking for a ride there who don't have their own vehicle.
 
