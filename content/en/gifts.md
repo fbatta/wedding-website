@@ -2,7 +2,7 @@
 toc: false
 ---
 
-# A treasure your presence is — held in highest esteem, it shall be.
+## A treasure your presence is — held in highest esteem, it shall be.
 
 Many of you are journeying far and wide, crossing the oceans, the skies and wild streets to join our celebration. That gesture alone fills our hearts. Please don’t feel obliged to bring anything more.
 
@@ -32,5 +32,3 @@ But if your heart insists, we’ve opened an online wishing well:
 {{< /tabs >}}
 
 Living in Australia makes it tricky to bring things home — we’d feel your love, but might not be able to afford transporting objects if they do not fit in the carry-on. 😉
-
-Above all, don't forget to leave us your artistic expression in the XXXXX ADD WHEN WE HAVE IT READY XXX

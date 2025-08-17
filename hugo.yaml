@@ -12,6 +12,10 @@ menu:
       name: Home
       pageRef: /
       weight: 1
+    - identifier: rsvp
+      name: RSVP
+      pageRef: /rsvp
+      weight: 4
     - identifier: ourstory
       name: Our Story
       pageRef: /ourstory
@@ -28,10 +32,6 @@ menu:
       name: FAQs
       pageRef: /faqs
       weight: 30
-    - identifier: rsvp
-      name: RSVP
-      pageRef: /rsvp
-      weight: 40
 
 languages:
   en:
