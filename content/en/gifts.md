@@ -1,3 +1,7 @@
+---
+toc: false
+---
+
 # A treasure your presence is — held in highest esteem, it shall be.
 
 Many of you are journeying far and wide, crossing the oceans, the skies and wild streets to join our celebration. That gesture alone fills our hearts. Please don’t feel obliged to bring anything more.

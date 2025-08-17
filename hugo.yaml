@@ -8,10 +8,18 @@ caches:
 
 menu:
   main:
+    - identifier: home
+      name: Home
+      pageRef: /
+      weight: 1
+    - identifier: ourstory
+      name: Our Story
+      pageRef: /ourstory
+      weight: 5
     - identifier: directions
       name: Directions
       pageRef: /directions
-      weight: 1
+      weight: 10
     - identifier: gifts
       name: Gifts
       pageRef: /gifts
@@ -20,6 +28,10 @@ menu:
       name: FAQs
       pageRef: /faqs
       weight: 30
+    - identifier: rsvp
+      name: RSVP
+      pageRef: /rsvp
+      weight: 40
 
 languages:
   en:
@@ -42,8 +54,12 @@ params:
     displayTitle: true
     displayLogo: false
   theme:
-    default: system
-    displayToggle: true
+    default: light
+    displayToggle: false
   footer:
     displayCopyright: false
     displayPoweredBy: false
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

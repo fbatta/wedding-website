@@ -1,8 +1,5 @@
-# Bienvenidos al matri de Bibi y Coco!
-
-{{< quote author="Sasha Sagan" >}}
-For small creatures such as we, the vastness is bearable only through love
-{{< /quote >}}
+---
+---
 
 <div id="rsvp-widget"></div>
 
@@ -17,6 +14,6 @@ For small creatures such as we, the vastness is bearable only through love
       showBackBtn: true,
       eventId: 'hKyDa32ik71BwwhdZMCB',
       showBackBtn: false,
-      language: 'spanish'
+      language: 'english'
     }); 
 </script>
