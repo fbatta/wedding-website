@@ -23,7 +23,7 @@ https://esenciadebodas.com/
 
 Lastimosamente, no hay una forma práctica de llegar al lugar en transporte público. 😢
 
-### 🚗 By car from Bogotá
+### 🚗 En carro desde Bogotá
 
 Si vas en carro, debes tomar la Ruta 50 (vía con peaje) hacia El Rosal.
 
