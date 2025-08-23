@@ -55,7 +55,7 @@ Shirts (for anyone wearing one): please make them bold and bright: think Carniva
 
 Suits: colourful suits are especially encouraged. Black, dark gray or dark blue feel too somber for the night. However, if that's what you already own, that's fine. The shirt and accessories will brighten it up.
 
-### Personal touch
+#### Personal touch
 
 Always wanted to wear sequins, metallics, rhinestones, glitter, or something outrageous to a wedding? This is the moment. Sparkles are not just allowed, they’re encouraged. We want the whole room to shimmer.
 

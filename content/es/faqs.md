@@ -55,9 +55,9 @@ Camisas (para quienes vayan con camisa): deben ser llamativas y brillantes, esti
 
 Trajes (blazer y pantalón): los trajes de colores son especialmente bienvenidos. El negro, gris oscuro o azul marino pueden resultar demasiado sobrios para la noche. Sin embargo, si es lo que ya tienes, está bien. La camisa y los accesorios le darán el acento de color.
 
-### Toque personal
+#### Toque personal
 
-¿Siempre has querido usar lentejuelas, metálicos, pedrería, escarcha o algo atrevido en una boda? Este es el momento. Los brillos no solo están permitidos, ¡están más que animados! Queremos que todo el salón resplandezca.
+¿Siempre has querido usar lentejuelas, metálicos, pedrería, escarcha o algo atrevido en una boda? Este es el momento. Los brillos no solo están permitidos, ¡si no preferidos! Queremos que todo el salón resplandezca.
 
 #### Nota práctica
 
