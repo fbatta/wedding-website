@@ -12,7 +12,7 @@
   position: absolute;
   top: -25px;
   left: 10px;
-  z-index: 100; /* Push it behind the text */
+  z-index: 0; /* Push it behind the text */
   font-family: serif;
 }
 .quote::after {
@@ -22,7 +22,7 @@
   position: absolute;
   bottom: -10px;
   right: 10px;
-  z-index: 100; /* Push it behind the text */
+  z-index: 0; /* Push it behind the text */
   font-family: serif;
 }
 
@@ -34,10 +34,4 @@
 .quote p > .author {
     font-style: normal;
     font-weight: 400;
-}
-
-@layer theme {
-    .regular-button {
-        @apply hx:mt-6
-    }
 }

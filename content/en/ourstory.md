@@ -92,9 +92,9 @@ _(Only on paper. Love doesn't do endings, only days worth remembering.)_
 
 {{% details title="Epilogue" closed="true" %}}
 
-Not all the scenes are ours.
+Not all the scenes are exclusively ours.
 
-Along the way, family and friends added their lines and their colours. If you hold this invitation, it's because you shaped us and our history.
+Along the way, family and friends added their lines and their colours. If you hold this invitation, it's because you shape us and our history.
 
 Without your part, this movie would've never been made.
 

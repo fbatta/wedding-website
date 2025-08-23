@@ -50,6 +50,8 @@ languages:
     title: Matrimonio Bibi e Coco
     contentDir: content/it
 params:
+  search:
+    enable: false
   navbar:
     displayTitle: true
     displayLogo: false
