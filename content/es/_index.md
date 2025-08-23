@@ -1,22 +1,7 @@
 # Bienvenidos al matri de Bibi y Coco!
 
-{{< quote author="Sasha Sagan" >}}
-For small creatures such as we, the vastness is bearable only through love
+{{< quote author="Carl Sagan" >}}
+Para las pequeñas criaturas como nosotros, la inmensidad es soportable solo a través del amor
 {{< /quote >}}
 
-<div id="rsvp-widget"></div>
-
-<script>
-    (function (w, d, s, o, f, js, fjs) {
-      w[o] = w[o] || function () { (w[o].q = w[o].q || []).push(arguments) };
-      js = d.createElement(s), fjs = d.getElementsByTagName(s)[0];
-      js.id = o; js.src = f; js.async = 1; fjs.parentNode.insertBefore(js, fjs);
-    }(window, document, 'script', 'oursvp', 'https://www.oursvp.app/widget/widget.js'));
-    oursvp('init', { 
-      element: document.getElementById('rsvp-widget'),
-      showBackBtn: true,
-      eventId: 'hKyDa32ik71BwwhdZMCB',
-      showBackBtn: false,
-      language: 'spanish'
-    }); 
-</script>
+![Bibi and Coco walking down Parliament Building in Victoria, Australia](/images/BibiCoco239_web.webp)
