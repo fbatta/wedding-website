@@ -1,22 +1,10 @@
-# Benvenuti al matrimonio di Bibi e Coco!
+---
+---
 
-{{< quote author="Sasha Sagan" >}}
-For small creatures such as we, the vastness is bearable only through love
+{{< quote author="Carl Sagan" >}}
+Per piccole creature come noi, l’immensità è sopportabile solo attraverso l’amore
 {{< /quote >}}
 
-<div id="rsvp-widget"></div>
+![Bibi and Coco walking down Parliament Building in Victoria, Australia](/images/BibiCoco239_web.webp)
 
-<script>
-    (function (w, d, s, o, f, js, fjs) {
-      w[o] = w[o] || function () { (w[o].q = w[o].q || []).push(arguments) };
-      js = d.createElement(s), fjs = d.getElementsByTagName(s)[0];
-      js.id = o; js.src = f; js.async = 1; fjs.parentNode.insertBefore(js, fjs);
-    }(window, document, 'script', 'oursvp', 'https://www.oursvp.app/widget/widget.js'));
-    oursvp('init', { 
-      element: document.getElementById('rsvp-widget'),
-      showBackBtn: true,
-      eventId: 'hKyDa32ik71BwwhdZMCB',
-      showBackBtn: false,
-      language: 'english'
-    }); 
-</script>
+Per favore, completa il RSVP che trovi in questo sito entro il 26 Ottobre 2026.

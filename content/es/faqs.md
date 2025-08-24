@@ -41,11 +41,11 @@ No, no ofreceremos alojamiento directamente. Sin embargo, estamos gestionando un
 
 ## 🤵 Código de vestimenta
 
-Esta no es una boda tradicional. Queremos que sea colorida, brillante y llena de energía.
+Nuestra boda es un evento formal. ¡Te esperamos con tu mejor traje y tu mejor sonrisa!
 
 #### Estilo (sugerencia)
 
-Vestidos largos o midi, vestidos de cóctel, enterizos o trajes de dos piezas: todos estos están super. Los trajes con corbata o corbatín también funcionan.
+Vestidos largos o medianos, enterizos, trajes de dos piezas o vestidos de cóctel: todos estos son bienvenidos. Los trajes elegantes con corbata o corbatín.
 
 #### Colores (¡no negociable!)
 

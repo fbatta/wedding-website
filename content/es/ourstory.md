@@ -7,6 +7,8 @@ params:
 
 ### Para pequeñas creaturas como nosotros
 
+_Una historia de amor en tres actos_
+
 _Una historia de amor escrita por Bibi & Coco_<br />
 _Una producción oficial de “Los Pollos”_<br />
 _Premier: Noviembre 28 de 2025 – Montecano_

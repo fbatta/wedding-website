@@ -20,6 +20,10 @@ menu:
       name: Our Story
       pageRef: /ourstory
       weight: 5
+    - identifier: rationale
+      name: Rationale
+      pageRef: /proposal
+      weight: 8
     - identifier: directions
       name: Directions
       pageRef: /directions
@@ -32,6 +36,10 @@ menu:
       name: FAQs
       pageRef: /faqs
       weight: 30
+    - identifier: destinations
+      name: Travel destinations
+      pageRef: /destinations
+      weight: 40
 
 languages:
   en:
