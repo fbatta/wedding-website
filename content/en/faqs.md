@@ -50,7 +50,7 @@ The UK's National Health Service has a [very comprehensive page](https://travelh
 
 #### Safety recommendations
 
-Avoid displaying valuables. Use taxis or ride-hailing apps. Specially, it is preferred not to walk around alone at night. In Bogotá, it is easy to use the public transport but avoid peak hours because is too crowded.
+Avoid displaying valuables. Use taxis or ride-hailing apps. Especially, it is preferred not to walk around alone at night. In Bogotá, it is easy to use the public transport but avoid peak hours because is too crowded.
 
 Stick to daylight visits in historic centers.
 
@@ -59,6 +59,16 @@ Always use official guides for remote/nature areas.
 Colombia’s festive season means lots of events and nightlife — enjoy, but keep an eye on drinks and belongings.
 
 If you've got more questions, you can visit the Australian Government's Smarttraveller [travel advisory for Colombia](https://www.smartraveller.gov.au/destinations/americas/colombia).
+
+#### Methods of payment
+
+Colombia operates largely with cash: taxis and certain shops will not usually accept any credit/debit cards, so make sure you travel with some cash on you. The minimum tariff for a taxi is 7.500 COP, with an average ride within the city costing between 15 and 20k COP.
+
+Also, try not to pay with 50.000 COP banknotes, because people often don't have change for those.
+
+#### Public transport
+
+Bogotá has a network of buses, called Transmilenios, which cover most of the city. Tickets can be bought at authorised sellers all around the city.
 
 ## 🛌 Accommodation
 

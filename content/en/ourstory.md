@@ -103,3 +103,5 @@ Along the way, family and friends added their lines and their colours. If you ho
 Without your part, this movie would've never been made.
 
 {{% /details %}}
+
+![Collage of moments in the life of Bibi and Coco](/images/collage.webp)

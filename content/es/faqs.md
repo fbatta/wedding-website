@@ -32,6 +32,12 @@ Sí, el lugar cuenta con parqueadero propio.
 
 La ceremonia será al aire libre y el lugar es un poco frío, así que trae un abrigo apropiado. Después de la hora del cóctel, pasaremos a un espacio cubierto y habrá chimeneas para calentarnos.
 
+#### Formas de pago
+
+Colombia funciona en gran medida con dinero en efectivo: los taxis y ciertas tiendas no suelen aceptar tarjetas de crédito/débito, así que asegúrate de viajar con algo de efectivo. La tarifa mínima para un taxi es de 7.500 COP, y un trayecto promedio dentro de la ciudad cuesta entre 15 y 20 mil COP.
+
+Además, intenta no pagar con billetes de 50.000 COP, porque la gente normalmente no tiene cambio para ellos.
+
 ## 🛌 Alojamiento
 
 #### ¿Van a proporcionar habitaciones para los invitados?
