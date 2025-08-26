@@ -1,4 +1,7 @@
 ---
+params:
+    sidebar:
+        exclude: true
 ---
 
 ## 💌 RSVP

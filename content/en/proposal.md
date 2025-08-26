@@ -1,3 +1,9 @@
+---
+params:
+    sidebar:
+        exclude: true
+---
+
 _"For small creatures such as we, the vastness is bearable only through love"_ - Carl Sagan / book by his daughter Sasha Sagan.
 
 This quote reminds us of what it means to be human: our lives swing between joy, monotony, pain, pleasure, grief, and beauty. It all feels so vast, and yet, we are only specks of stardust. A hard truth, especially for us who don’t believe in an afterlife.

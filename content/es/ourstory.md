@@ -1,6 +1,8 @@
 ---
 toc: false
 params:
+    sidebar:
+      exclude: true
     page:
         width: wide
 ---

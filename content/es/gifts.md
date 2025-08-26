@@ -1,5 +1,8 @@
 ---
 toc: false
+params:
+    sidebar:
+        exclude: true
 ---
 
 ## Un tesoro tu presencia es… en la más alta estima, tenerla debemos.

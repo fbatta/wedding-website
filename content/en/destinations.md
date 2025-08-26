@@ -1,3 +1,9 @@
+---
+params:
+    sidebar:
+        exclude: true
+---
+
 ## Encanto
 
 Conoce Nuestro Encanto! If you travel from abroad just top attend our wedding, we are hoping we are giving you the perfect excuse to explore the wonders of Colombia. We know it is.

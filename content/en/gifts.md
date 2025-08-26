@@ -1,5 +1,7 @@
 ---
-toc: false
+params:
+  sidebar:
+    exclude: true
 ---
 
 ## A treasure your presence is — held in highest esteem, it shall be.

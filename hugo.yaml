@@ -40,6 +40,39 @@ menu:
       name: Travel destinations
       pageRef: /destinations
       weight: 40
+  sidebar:
+    - identifier: home
+      name: Home
+      pageRef: /
+      weight: 1
+    - identifier: rsvp
+      name: RSVP
+      pageRef: /rsvp
+      weight: 4
+    - identifier: ourstory
+      name: Our Story
+      pageRef: /ourstory
+      weight: 5
+    - identifier: rationale
+      name: Rationale
+      pageRef: /proposal
+      weight: 8
+    - identifier: directions
+      name: Directions
+      pageRef: /directions
+      weight: 10
+    - identifier: gifts
+      name: Gifts
+      pageRef: /gifts
+      weight: 20
+    - identifier: faqs
+      name: FAQs
+      pageRef: /faqs
+      weight: 30
+    - identifier: destinations
+      name: Travel destinations
+      pageRef: /destinations
+      weight: 40
 
 languages:
   en:

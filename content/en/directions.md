@@ -1,7 +1,7 @@
 ---
 params:
-    banner:
-        path: /static/images/BibiCoco239_web.webp
+    sidebar:
+        exclude: true
 ---
 
 ## Hacienda Montecano
