@@ -112,6 +112,10 @@ All our food is vegetarian. Please specify additional requirements or allergies 
 
 ## 🗺️ Itinerary
 
+#### Are you organising group activities prior to the wedding?
+
+Yes, we are planning a couple of activities on the week of November 24! Closer to the event, we'll be sharing a schedule with all of you.
+
 #### What is the wedding day itinerary?
 
 It will be shared here soon!
