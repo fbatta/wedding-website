@@ -30,7 +30,7 @@ Dedicato all'artista più famoso della Colombia, Fernando Botero, questo museo e
 
 #### Vibrazioni urbane e moderne
 
-- Tour di street art: Bogotá è una delle capitali mondiali della street art. I tour guidati a La Candelaria o Chapinero rivelano storie politiche e culturali nascoste.
+- Tour di street art: Bogotá è una delle capitali mondiali della street art. I tour guidati a La Candelaria rivelano storie politiche e culturali nascoste.
 - Usaquén: un quartiere in stile coloniale nel nord, con un mercatino delle pulci la domenica, ristoranti alla moda e piazze alberate.
 - Zona Rosa / Zona T: centro della vita notturna con locali, cocktail bar e musica dal vivo.
 
