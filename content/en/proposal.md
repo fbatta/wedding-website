@@ -14,7 +14,7 @@ This quote reminds us of what it means to be human: our lives swing between joy,
 Still, being here in this moment, laughing, loving, finding wonder in the smallest things is worth celebrating. We chose to marry to immortalize a fleeting breath of the universe into a ritual, celebrating our lives and the lives of our loved ones.
 
 {{< proposal-poetry image="![Bibi and Coco kissing and displaying their beautiful rings, Australia](/images/proposal.webp)" >}}
-{{% details %}}
+{{% details title="Mutual engagement agreement" %}}
 
 _Our wedding is not a beginning_
 

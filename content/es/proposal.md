@@ -14,7 +14,7 @@ Este fragmento nos recuerda lo que significa ser humanos: nuestras vidas oscilan
 Aun así, estar aquí en este momento, reír, amar y maravillarnos con las cosas más pequeñas a nuestro alrededor es algo que vale la pena celebrar. Elegimos casarnos para inmortalizar un suspiro fugaz del universo en un ritual, celebrando nuestras vidas y las de nuestros seres queridos.
 
 {{< proposal-poetry image="![Bibi and Coco kissing and displaying their beautiful rings, Australia](/images/proposal.webp)" >}}
-{{% details %}}
+{{% details title="Pacto de la propuesta mutua" %}}
 
 _Nuestro matrimonio no es el inicio_
 

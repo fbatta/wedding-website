@@ -18,7 +18,7 @@ _Premier: Noviembre 28 de 2025 – Montecano_
 [//]: # (TODO: Use tailwind)
 <div style="height: 25px"></div>
 
-{{% details title="Acto primero" %}}
+{{% details title="Acto primero" closed="true" %}}
 
 **FUNDIDO DE ENTRADA**
 

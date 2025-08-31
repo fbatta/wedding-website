@@ -18,7 +18,7 @@ _Première: 28 Novembre 2025 - Montecano_
 [//]: # (TODO: Use tailwind)
 <div style="height: 25px"></div>
 
-{{% details title="Atto Primo" %}}
+{{% details title="Atto Primo" closed="true" %}}
 
 **DISSOLVENZA IN ENTRATA**
 
