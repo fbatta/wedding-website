@@ -11,3 +11,5 @@ Para las pequeñas criaturas como nosotros, la inmensidad es soportable solo a t
 ![Bibi and Coco walking down Parliament Building in Victoria, Australia](/images/BibiCoco239_web.webp)
 
 Por favor confírmanos tu asistencia en este sitio web antes de el 26 de Octubre 2025.
+
+{{< rsvp-button >}}

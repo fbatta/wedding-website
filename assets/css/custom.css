@@ -68,3 +68,18 @@
         grid-template-columns: 1fr 1fr;
     }
 }
+
+.rsvp-button {
+    display: flex;
+    margin-top: 1em;
+    justify-content: center;
+}
+.rsvp-button a {
+    display: block;
+    color: white;
+}
+.rsvp-button-button {
+    background-color: black;
+    padding: 1em 2em;
+    border-radius: 2em;
+}
