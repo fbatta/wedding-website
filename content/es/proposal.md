@@ -1,8 +1,11 @@
 ---
+toc: false
 params:
     sidebar:
         exclude: true
 ---
+
+## Nuestra logica
 
 _"Para criaturas tan pequeñas como nosotros, la inmensidad solo se puede sobrellevar a través del amor"_ - Carl Sagan / libro de su hija Sasha Sagan.
 

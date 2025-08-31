@@ -1,8 +1,11 @@
 ---
+toc: false
 params:
     sidebar:
         exclude: true
 ---
+
+## La nostra logica
 
 _"Per creature così piccole come noi, l’immensità si può sopportare solo attraverso l’amore"_ - Carl Sagan / tratto dal libro di sua figlia, Sasha Sagan.
 

@@ -1,8 +1,11 @@
 ---
+toc: false
 params:
     sidebar:
         exclude: true
 ---
+
+## Our logic
 
 _"For small creatures such as we, the vastness is bearable only through love"_ - Carl Sagan / book by his daughter Sasha Sagan.
 
