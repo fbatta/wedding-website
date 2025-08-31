@@ -1,0 +1,12 @@
+<div class="lospollos">
+    <div class="lospollos-mobile">
+        <h3>{{ .Get "title" }}</h3>
+        <img src="/images/lospollos_800px.webp"  alt="Los Pollos production logo"/>
+        {{ .Inner | .Page.RenderString }}
+    </div>
+    <div class="logo-text lospollos-desktop">
+        <h3>{{ .Get "title" }}</h3>
+        {{ .Inner | .Page.RenderString }}
+    </div>
+    <img class="lospollos-desktop" src="/images/lospollos_800px.webp"  alt="Los Pollos production logo"/>
+</div>

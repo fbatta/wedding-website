@@ -7,13 +7,13 @@ params:
         width: wide
 ---
 
-### Per piccole creature come noi
-
+{{< lospollos title="Per piccole creature come noi" >}}
 _Una storia d'amore in tre atti_
 
 _Scritto da: Bibi and Coco_<br />
 _Una produzione "Los Pollos"_<br />
 _Première: 28 Novembre 2025 - Montecano_
+{{< /lospollos >}}
 
 [//]: # (TODO: Use tailwind)
 <div style="height: 25px"></div>
@@ -102,3 +102,5 @@ Lungo il cammino, familiari e amici hanno aggiunto le loro battute e i loro colo
 
 Senza il tuo ruolo, questo film non sarebbe mai stato possibile.
 {{% /details %}}
+
+![Collage of moments in the life of Bibi and Coco](/images/collage.webp)

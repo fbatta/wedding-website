@@ -7,13 +7,13 @@ params:
         width: wide
 ---
 
-### FOR SMALL CREATURES SUCH AS WE
-
+{{< lospollos title="For small creatures such as we" >}}
 _A love story in three acts_
 
 _Written by: Bibi and Coco_<br />
 _A "Los Pollos" production_<br />
 _Premiere: November 28, 2025 - Montecano_
+{{< /lospollos >}}
 
 [//]: # (TODO: Use tailwind)
 <div style="height: 25px"></div>

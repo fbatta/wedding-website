@@ -7,13 +7,13 @@ params:
         width: wide
 ---
 
-### Para pequeñas creaturas como nosotros
-
+{{< lospollos title="Para pequeñas creaturas como nosotros" >}}
 _Una historia de amor en tres actos_
 
-_Una historia de amor escrita por Bibi & Coco_<br />
+_Escrita por Bibi & Coco_<br />
 _Una producción oficial de “Los Pollos”_<br />
 _Premier: Noviembre 28 de 2025 – Montecano_
+{{< /lospollos >}}
 
 [//]: # (TODO: Use tailwind)
 <div style="height: 25px"></div>
@@ -105,3 +105,5 @@ En el camino, familia y amigos añadieron sus líneas y sus colores. Si tienes e
 Sin tu papel, esta película nunca hubiera sido posible.
 
 {{% /details %}}
+
+![Collage of moments in the life of Bibi and Coco](/images/collage.webp)

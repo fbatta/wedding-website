@@ -10,8 +10,7 @@ Questo passaggio ci ricorda cosa significhi essere umani: le nostre vite oscilla
 
 Eppure, essere qui in questo momento, ridere, amare e stupirci delle piccole cose attorno a noi è qualcosa che merita di essere celebrato. Abbiamo scelto di sposarci per immortalare un respiro fugace dell’universo in un rito, celebrando le nostre vite e quelle delle persone che amiamo.
 
-![Bibi and Coco kissing and displaying their beautiful rings, Australia](/images/proposal.webp)
-
+{{< proposal-poetry image="![Bibi and Coco kissing and displaying their beautiful rings, Australia](/images/proposal.webp)" >}}
 {{% details %}}
 
 _Il nostro matrimonio non è un inizio: stiamo insieme già da sei anni._
@@ -35,3 +34,4 @@ _che amiamo…_
 _con tutta la follia che abbiamo dentro._
 
 {{% /details %}}
+{{< /proposal-poetry >}}
