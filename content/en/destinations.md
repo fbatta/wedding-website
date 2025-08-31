@@ -45,9 +45,8 @@ Dedicated to Colombia’s most famous artist, Fernando Botero, this museum displ
 - Laguna de Guatavita: Sacred lagoon tied to the legend of El Dorado. Surrounded by misty forests, 1.5 hours away.
 - Zipaquirá Salt Cathedral: An underground cathedral carved into a salt mine, lit with dramatic colors. UNESCO-listed, about 1.5 hours away.
 
-
-
 ### Tourist highlights
+
 #### Villa de Leyva
 
 This Andean town boasts one of the largest cobblestone plazas in South America. White façades, red-tiled roofs, and a laid-back vibe make it a photogenic and peaceful retreat. Around it, you’ll find fossil museums, vineyards, and desert-like landscapes.
