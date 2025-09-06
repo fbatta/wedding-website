@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+
 .quote {
     position: relative;
     margin: 1em 0;
@@ -82,4 +84,16 @@
     background-color: black;
     padding: 1em 2em;
     border-radius: 2em;
+}
+
+.date-header {
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+}
+.date-header > h3 {
+    font-size: 2.3em;
+    margin-bottom: 1em;
 }

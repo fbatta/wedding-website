@@ -1,8 +1,13 @@
 ---
+toc: false
 params:
   sidebar:
     exclude: true
 ---
+
+{{< date-header >}}
+### 28 Novembre 2025
+{{< /date-header >}}
 
 {{< quote author="Carl Sagan" >}}
 Per piccole creature come noi, l’immensità è sopportabile solo attraverso l’amore

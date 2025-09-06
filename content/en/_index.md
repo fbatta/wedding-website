@@ -1,8 +1,13 @@
 ---
+toc: false
 params:
   sidebar:
     exclude: true
 ---
+
+{{< date-header >}}
+### November 28th, 2025
+{{< /date-header >}}
 
 {{< quote author="Carl Sagan" >}}
 For small creatures such as we, the vastness is bearable only through love
