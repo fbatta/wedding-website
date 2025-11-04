@@ -80,6 +80,96 @@ Toda la comida será vegetariana. Por favor especifica requerimientos adicionale
 
 ## 🗺️ Itinerario
 
+#### ¿Están organizando actividades grupales antes de la boda?
+
+##### Lunes 24
+
+10:00 AM: Encuentro en La Puerta Falsa para comer Tamal (el favorito de Coco).
+
+12:00 PM: Paseo por La Candelaria: Plaza de Bolívar, Catedral Primada, Centro Cultural Gabriel García Márquez, Teatro Delia Zapata Olivella.
+
+1:30 PM: Rumbo a Monserrate. Se puede ir por el funicular del Eje + UniAndes. Podemos almorzar allí y quedarnos un rato. Quizás incluso para ver el atardecer.
+
+5:00 PM: Café Arte y Pasión. Para degustar un delicioso café.
+
+##### Martes 25
+
+8:00 AM: Rumbo a Guatavita.
+
+12:30 PM: Almuerzo en el Restaurante Villa Quesada.
+
+1:00 PM: Rumbo a la Catedral de Sal de Zipaquirá.
+
+4:00 PM: Rumbo al "Club de Tejo donde Ospina", ¡el deporte nacional de Colombia!
+
+##### Miércoles 26
+
+9:30 AM: Museo del Oro.
+
+12:30 PM: Almuerzo en "La puerta de la catedral".
+
+Paseo hacia el Museo Nacional y la Plaza de Toros.
+
+Tomar un autobús a Usaquén.
+
+Tomar una cerveza en la BBC (Bogotá Beer Company).
+
+##### Jueves 27
+
+¡Es libre!
+
+Durante el día, puedes ir a la Plaza de Paloquemao a jugar bingo de frutas:
+
+{{< tabs items="Fácil,Moderado,Difícil" >}}
+{{< tab >}}
+
+- Lulo
+- Maracuyá
+- Granadilla
+- Guanábana
+- Guayaba
+- Mango de azúcar
+- Mora
+- Tomate de árbol
+- Curuba
+- Coco frío
+
+{{< /tab >}}
+{{< tab >}}
+
+- Feijoa
+- Papayuela
+- Carambolo
+- Chontaduro
+- Borojó
+- Anón
+- Corozo
+- Arazá
+- Chirimoya
+
+{{< /tab >}}
+{{< tab >}}
+
+- Níspero
+- Zapote
+- Mamey
+- Guama
+- Mamoncillo
+- Jobo
+- Copoazú
+- Mangostino
+- Pitahaya
+- Curuba amarilla
+
+{{< /tab >}}
+{{< /tabs >}}
+
+Por la noche, hay una hermosa exhibición de luces navideñas a partir de las 5 p.m. en el Jardín Botánico llamada “MajestuOSOS”. Pero también puedes ir temprano y visitar las exhibiciones de plantas en los diferentes ambientes.
+
+También puedes visitar el Museo de Botero en La Candelaria, el Museo Quinta de Bolívar o el Museo Nacional.
+
+Puedes cenar en uno de los muchos excelentes restaurantes de La Macarena.
+
 #### ¿Cuál será el itinerario del día de la boda?
 
 ¡Pronto lo compartiremos aquí!

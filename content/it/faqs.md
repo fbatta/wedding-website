@@ -114,7 +114,93 @@ Tutto il nostro cibo è vegetariano. Ti preghiamo di specificare eventuali requi
 
 #### State organizzando attività di gruppo prima del matrimonio?
 
-Sì, stiamo pianificando un paio di attività nella settimana del 24 novembre! A ridosso dell'evento, condivideremo un programma con tutti voi.
+##### Lunedì 24
+
+10:00: Incontro a La Puerta Falsa per mangiare Tamal (il preferito di Coco).
+
+12:00: Passeggiata per La Candelaria: Plaza de Bolivar, Catedral Primada, Centro Cultural Gabriel Garcia Marquez, Teatro Delia Zapata Olivella.
+
+13:30: Direzione Monserrate. Si può salire con la funicolare Eje + UniAndes. Lì possiamo pranzare e rimanere per un po'. Forse anche per il tramonto.
+
+17:00: Caffè Arte y Pasión. Per gustare un delizioso caffè.
+
+##### Martedì 25
+
+8:00: Direzione Guatavita.
+
+12:30: Pranzo al Ristorante Villa Quesada.
+
+13:00: Direzione Cattedrale di Sale di Zipaquirá.
+
+16:00: Direzione "Club de Tejo donde Ospina", lo sport nazionale della Colombia!
+
+##### Mercoledì 26
+
+9:30: Museo dell'Oro.
+
+12:30: Pranzo a "La puerta de la catedral".
+
+Passeggiata verso il Museo Nacional e la Plaza de Toros.
+
+Prendere un autobus per Usaquén.
+
+Bere una birra alla BBC (Bogotá Beer Company).
+
+##### Giovedì 27
+
+È libero!
+
+Durante il giorno, potete andare a Plaza de Paloquemao per giocare al bingo della frutta:
+
+{{< tabs items="Facile,Medio,Difficile" >}}
+{{< tab >}}
+
+- Lulo
+- Maracuyá
+- Granadilla
+- Guanábana
+- Guayaba
+- Mango de azúcar
+- Mora
+- Tomate de árbol
+- Curuba
+- Coco frío
+
+{{< /tab >}}
+{{< tab >}}
+
+- Feijoa
+- Papayuela
+- Carambolo
+- Chontaduro
+- Borojó
+- Anón
+- Corozo
+- Arazá
+- Chirimoya
+
+{{< /tab >}}
+{{< tab >}}
+
+- Níspero
+- Zapote
+- Mamey
+- Guama
+- Mamoncillo
+- Jobo
+- Copoazú
+- Mangostino
+- Pitahaya
+- Curuba amarilla
+
+{{< /tab >}}
+{{< /tabs >}}
+
+Di sera, c'è una bellissima mostra di luci natalizie che inizia alle 17:00 al Giardino Botanico chiamata “MajestuOSOS”. Ma potete anche andare durente il giorno e visitare le esposizioni di piante nei diversi ambienti.
+
+Potete anche visitare il Museo de Botero a La Candelaria, il Museo Quinta de Bolivar o il Museo Nacional.
+
+Potete cenare in uno dei tanti ottimi ristoranti a La Macarena.
 
 #### Qual è l'itinerario del giorno del matrimonio?
 

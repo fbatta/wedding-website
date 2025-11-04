@@ -114,7 +114,93 @@ All our food is vegetarian. Please specify additional requirements or allergies 
 
 #### Are you organising group activities prior to the wedding?
 
-Yes, we are planning a couple of activities on the week of November 24! Closer to the event, we'll be sharing a schedule with all of you.
+##### Monday 24th
+
+10:00AM: Meet in La Puerta Falsa to eat Tamal (Coco's favourite).
+
+12:00PM: Walk around La Candelaria: Plaza de Bolivar, Catedral Primada, Centro Cultural Gabriel Garcia Marquez, Teatro Delia Zapata Olivella.
+
+1:30PM: Head to Monserrate. Can go by the Eje + UniAndes funicular. We can find lunch there and stay for a while. Maybe even stay for the sunset.
+
+5:00PM: Arte y pasion cafe. To taste some delicious coffee.
+
+##### Tuesday 25th
+
+8:00AM: Head towards Guatavita.
+
+12:30PM: Lunch at Restaurante Villa Quesada.
+
+1:00PM: Head to Catedral de sal Zipaquirá.
+
+4:00PM: Head to "Club de Tejo donde Ospina", Colombia's national sport!
+
+##### Wednesday 26th
+
+9:30AM: Museum of Gold.
+
+12:30PM: Lunch at "La puerta de la catedral".
+
+Walk towards Museo Nacional and Plaza de Toros.
+
+Take a bus to Usaquen.
+
+Have a beer in the BBC (Bogotá Beer Company).
+
+##### Thursday 27th
+
+It is free!
+
+During the day, you can go to Plaza de Paloquemao to play fruit bingo:
+
+{{< tabs items="Easy,Moderate,Tricky" >}}
+{{< tab >}}
+
+- Lulo
+- Maracuyá
+- Granadilla
+- Guanábana
+- Guayaba
+- Mango de azúcar
+- Mora
+- Tomate de árbol
+- Curuba
+- Coco frío
+
+{{< /tab >}}
+{{< tab >}}
+
+- Feijoa
+- Papayuela
+- Carambolo
+- Chontaduro
+- Borojó
+- Anón
+- Corozo
+- Arazá
+- Chirimoya
+
+{{< /tab >}}
+{{< tab >}}
+
+- Níspero
+- Zapote
+- Mamey
+- Guama
+- Mamoncillo
+- Jobo
+- Copoazú
+- Mangostino
+- Pitahaya
+- Curuba amarilla
+
+{{< /tab >}}
+{{< /tabs >}}
+
+At night, there is a beautiful exhibition of Christmas lights starting at 5pm at Jardin botanico called “MajestuOSOS”. But you can also go early and visit the exhibits of plants in the different environments.
+
+You can also visit Museo de Botero in La candelaria, Museo Quinta de Bolivar, or Museo Nacional.
+
+You can dine at one of the many great restaurants at La Macarena.
 
 #### What is the wedding day itinerary?
 
