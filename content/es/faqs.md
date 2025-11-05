@@ -164,8 +164,6 @@ Durante el día, puedes ir a la Plaza de Paloquemao a jugar bingo de frutas:
 {{< /tab >}}
 {{< /tabs >}}
 
-Por la noche, hay una hermosa exhibición de luces navideñas a partir de las 5 p.m. en el Jardín Botánico llamada “MajestuOSOS”. Pero también puedes ir temprano y visitar las exhibiciones de plantas en los diferentes ambientes.
-
 También puedes visitar el Museo de Botero en La Candelaria, el Museo Quinta de Bolívar o el Museo Nacional.
 
 Puedes cenar en uno de los muchos excelentes restaurantes de La Macarena.

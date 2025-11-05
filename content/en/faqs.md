@@ -196,7 +196,7 @@ During the day, you can go to Plaza de Paloquemao to play fruit bingo:
 {{< /tab >}}
 {{< /tabs >}}
 
-At night, there is a beautiful exhibition of Christmas lights starting at 5pm at Jardin botanico called “MajestuOSOS”. But you can also go early and visit the exhibits of plants in the different environments.
+You can visit the Botanic Gardens in Bogotá and see the exhibits of plants in the different environments.
 
 You can also visit Museo de Botero in La candelaria, Museo Quinta de Bolivar, or Museo Nacional.
 

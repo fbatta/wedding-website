@@ -196,7 +196,7 @@ Durante il giorno, potete andare a Plaza de Paloquemao per giocare al bingo dell
 {{< /tab >}}
 {{< /tabs >}}
 
-Di sera, c'è una bellissima mostra di luci natalizie che inizia alle 17:00 al Giardino Botanico chiamata “MajestuOSOS”. Ma potete anche andare durente il giorno e visitare le esposizioni di piante nei diversi ambienti.
+Potete visitare i Giardini Botanici di Bogotá durente il giorno ed ammirare le esposizioni di piante nei diversi ambienti.
 
 Potete anche visitare il Museo de Botero a La Candelaria, il Museo Quinta de Bolivar o il Museo Nacional.
 
