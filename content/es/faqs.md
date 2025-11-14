@@ -112,7 +112,7 @@ Paseo hacia el Museo Nacional y la Plaza de Toros.
 
 Tomar un autobús a Usaquén.
 
-Tomar una cerveza en la BBC (Bogotá Beer Company).
+Tomar una cerveza en la BBC (Bogotá Beer Company) en la 85, y despues ir a bailar (por los que quieren). 💃🕺
 
 ##### Jueves 27
 

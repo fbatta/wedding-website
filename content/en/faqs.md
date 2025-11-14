@@ -144,7 +144,7 @@ Walk towards Museo Nacional and Plaza de Toros.
 
 Take a bus to Usaquen.
 
-Have a beer in the BBC (Bogotá Beer Company).
+Have a beer in the BBC (Bogotá Beer Company) on the 85, and then go dancing (for those who'd like to). 💃🕺
 
 ##### Thursday 27th
 

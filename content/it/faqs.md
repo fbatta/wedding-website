@@ -144,7 +144,7 @@ Passeggiata verso il Museo Nacional e la Plaza de Toros.
 
 Prendere un autobus per Usaquén.
 
-Bere una birra alla BBC (Bogotá Beer Company).
+Bere una birra alla BBC (Bogotá Beer Company) nella 85 e poi a ballare (per coloro che vogliano). 💃🕺
 
 ##### Giovedì 27
 
