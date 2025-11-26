@@ -41,7 +41,7 @@ But if your heart insists, we’ve opened an online wishing well:
 **Nequi:** 300 480 8497
 
 {{< /tab >}}
-{{ < tab >}}
+{{< tab >}}
 
 **Name:** Francesco Battaglini
 

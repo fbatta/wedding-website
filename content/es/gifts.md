@@ -42,7 +42,7 @@ Pero si tu corazón insiste, tendremos una lluvia de sobres virtual:
 **Nequi:** 300 480 8497
 
 {{< /tab >}}
-{{ < tab >}}
+{{< tab >}}
 
 **Nombre:** Francesco Battaglini
 

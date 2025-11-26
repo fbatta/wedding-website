@@ -10,7 +10,7 @@ Molti di voi stanno viaggiando da lontano, attraversando oceani, cieli e strade 
 
 Ma se il tuo cuore insiste, abbiamo aperto una "cassetta dei desideri" online:
 
-{{< tabs items="Australia,Europa,Colombia" >}}
+{{< tabs items="Australia,Europa,Colombia,Regno Unito" >}}
 {{< tab >}}
 **Nome conto:** Laura Ospina Rozo e Francesco Battaglini
 
@@ -41,7 +41,7 @@ Ma se il tuo cuore insiste, abbiamo aperto una "cassetta dei desideri" online:
 **Nequi:** 300 480 8497
 
 {{< /tab >}}
-{{ < tab >}}
+{{< tab >}}
 
 **Nome:** Francesco Battaglini
 
