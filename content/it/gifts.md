@@ -41,6 +41,21 @@ Ma se il tuo cuore insiste, abbiamo aperto una "cassetta dei desideri" online:
 **Nequi:** 300 480 8497
 
 {{< /tab >}}
+{{ < tab >}}
+
+**Nome:** Francesco Battaglini
+
+**Conto:** 33262276
+
+**Sort code:** 608464
+
+**IBAN:** GB84TRWI60846433262276
+
+**SWIFT/BIC:** TRWIGB2LXXX
+
+**Nome e indirizzo della banca:** Wise Payments Limited, Worship Square, 65 Clifton Street, London, EC2A 4JE, United Kingdom
+
+{{< /tab >}}
 {{< /tabs >}}
 
 Vivere in Australia rende difficile portare le cose a casa — sentiremo il vostro amore, ma potremmo non essere in grado di permetterci di trasportare oggetti se non entrano nel bagaglio a mano. 😉

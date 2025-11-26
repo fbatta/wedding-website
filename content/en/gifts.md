@@ -10,7 +10,7 @@ Many of you are journeying far and wide, crossing the oceans, the skies and wild
 
 But if your heart insists, we’ve opened an online wishing well:
 
-{{< tabs items="Australia,Europe,Colombia" >}}
+{{< tabs items="Australia,Europe,Colombia,UK" >}}
 {{< tab >}}
 **Account name:** Laura Ospina Rozo and Francesco Battaglini
 
@@ -41,6 +41,22 @@ But if your heart insists, we’ve opened an online wishing well:
 **Nequi:** 300 480 8497
 
 {{< /tab >}}
+{{ < tab >}}
+
+**Name:** Francesco Battaglini
+
+**Account number:** 33262276
+
+**Sort code:** 608464
+
+**IBAN:** GB84TRWI60846433262276
+
+**SWIFT/BIC:** TRWIGB2LXXX
+
+**Bank name and address:** Wise Payments Limited, Worship Square, 65 Clifton Street, London, EC2A 4JE, United Kingdom
+
+{{< /tab >}}
+
 {{< /tabs >}}
 
 Living in Australia makes it tricky to bring things home — we’d feel your love, but might not be able to afford transporting objects if they do not fit in the carry-on. 😉
