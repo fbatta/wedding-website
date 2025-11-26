@@ -30,7 +30,15 @@ Ma se il tuo cuore insiste, abbiamo aperto una "cassetta dei desideri" online:
 **Nome e indirizzo della banca:** Wise, Rue du Trone 100, 3rd floor, Brussels, 1050, Belgium
 
 {{< /tab >}}
-{{< tab >}}Da definire{{< /tab >}}
+{{< tab >}}
+
+**Nome:** Laura Bibiana Ospina Rozo
+
+**Banca:** Bancolombia
+
+**Numero conto:** 912-945857-41
+
+{{< /tab >}}
 {{< /tabs >}}
 
 Vivere in Australia rende difficile portare le cose a casa — sentiremo il vostro amore, ma potremmo non essere in grado di permetterci di trasportare oggetti se non entrano nel bagaglio a mano. 😉

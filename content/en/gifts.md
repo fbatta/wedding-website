@@ -30,7 +30,15 @@ But if your heart insists, we’ve opened an online wishing well:
 **Bank name and address:** Wise, Rue du Trone 100, 3rd floor, Brussels, 1050, Belgium
 
 {{< /tab >}}
-{{< tab >}}TBD{{< /tab >}}
+{{< tab >}}
+
+**Name:** Laura Bibiana Ospina Rozo
+
+**Bank name:** Bancolombia
+
+**Account no:** 912-945857-41
+
+{{< /tab >}}
 {{< /tabs >}}
 
 Living in Australia makes it tricky to bring things home — we’d feel your love, but might not be able to afford transporting objects if they do not fit in the carry-on. 😉

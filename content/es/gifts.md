@@ -13,25 +13,33 @@ Pero si tu corazón insiste, tendremos una lluvia de sobres virtual:
 
 {{< tabs items="Australia,Europe,Colombia" >}}
 {{< tab >}}
-**Account name:** Laura Ospina Rozo and Francesco Battaglini
+**Nombre cuenta:** Laura Ospina Rozo and Francesco Battaglini
 
 **BSB:** 633 123
 
-**Account number:** 203 524 277
+**Numbero cuenta:** 203 524 277
 
 {{< /tab >}}
 {{< tab >}}
 
-**Name:** Francesco Battaglini
+**Nombre:** Francesco Battaglini
 
 **IBAN:** BE78 9676 7794 5086
 
 **SWIFT/BIC:** TRWIBEB1XXX
 
-**Bank name and address:** Wise, Rue du Trone 100, 3rd floor, Brussels, 1050, Belgium
+**Nombre del banco y direccion:** Wise, Rue du Trone 100, 3rd floor, Brussels, 1050, Belgium
 
 {{< /tab >}}
-{{< tab >}}TBD{{< /tab >}}
+{{< tab >}}
+
+**Nombre:** Laura Bibiana Ospina Rozo
+
+**Banco:** Bancolombia
+
+**Numero cuenta:** 912-945857-41
+
+{{< /tab >}}
 {{< /tabs >}}
 
 Vivir en Australia hace un poco difícil transportar grandes objetos. Claramente apreciamos tu cariño, pero no creemos poder costear el transporte de cosas que no nos quepan en el equipaje de mano. 😉
