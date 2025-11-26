@@ -38,6 +38,8 @@ But if your heart insists, we’ve opened an online wishing well:
 
 **Account no:** 912-945857-41
 
+**Nequi:** 300 480 8497
+
 {{< /tab >}}
 {{< /tabs >}}
 

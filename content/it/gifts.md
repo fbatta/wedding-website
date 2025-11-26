@@ -38,6 +38,8 @@ Ma se il tuo cuore insiste, abbiamo aperto una "cassetta dei desideri" online:
 
 **Numero conto:** 912-945857-41
 
+**Nequi:** 300 480 8497
+
 {{< /tab >}}
 {{< /tabs >}}
 

@@ -39,6 +39,8 @@ Pero si tu corazón insiste, tendremos una lluvia de sobres virtual:
 
 **Numero cuenta:** 912-945857-41
 
+**Nequi:** 300 480 8497
+
 {{< /tab >}}
 {{< /tabs >}}
 
